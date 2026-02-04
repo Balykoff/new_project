@@ -3,3 +3,4 @@
 *.log
 *.tmp
 *.md
+*.DS_Store
