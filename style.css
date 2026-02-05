@@ -5,3 +5,7 @@
     h1 {
       color: navy;
     }
+
+      .button:hover {
+       background-color: #0056b3; /* Более темный синий */
+    }
