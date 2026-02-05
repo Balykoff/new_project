@@ -4,6 +4,8 @@
     }
     h1 {
       color: navy;
+      font-family: Arial, sans-serif;
+      font-size: 24px;
     }
 
       .button:hover {
